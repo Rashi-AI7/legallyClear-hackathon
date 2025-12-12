@@ -1,0 +1,5 @@
+{
+  "name": "LegallyClear-Final",
+  "description": "A high-end legal document analyzer that translates complex legalese into simple terms using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
